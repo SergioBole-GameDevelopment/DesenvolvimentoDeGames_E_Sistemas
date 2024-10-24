@@ -1,0 +1,1 @@
+Estudos e desenvolvimento de projetos em C# ( Projetos Web com Blazor ) e PHP ( Projetos Simples )
